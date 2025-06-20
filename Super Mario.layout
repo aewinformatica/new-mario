@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="source\main.cpp" Top="Yes" Tabpos="1" TopLine="13">
+			<Cursor Line="37" Column="51"/>
+		</File>
+		<File Name="header\video.h" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="21" Column="1"/>
+		</File>
+	</Files>
+	<Folders>
+		<Folder Name="header" Expanded="Yes"/>
+		<Folder Name="source" Expanded="Yes"/>
+	</Folders>
+</Layout>
